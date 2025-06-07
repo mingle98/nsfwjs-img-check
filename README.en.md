@@ -1,5 +1,7 @@
 # nsfwjs-img-check
 
+[English](README.en.md) | [简体中文](README.md)
+
 #### Introduction
 A Node.js-based image NSFW (Not Safe For Work) detection service implemented using nsfwjs.
 

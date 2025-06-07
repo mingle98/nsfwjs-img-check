@@ -1,5 +1,7 @@
 # nsfwjs-img-check
 
+[English](README.en.md) | [简体中文](README.md)
+
 #### 介绍
 一款基于nsfwjs实现的node版本的图片鉴黄服务
 
